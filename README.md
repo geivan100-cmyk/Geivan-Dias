@@ -1,2 +1,5 @@
 # Geivan-Dias
-Em transição para Ciência de Dados/IA. Estudante com perfil analítico e experiência em atendimento e processos. Foco em aplicar visão prática e agilidade em projetos de Data &amp; Analyticse, Python.
+# Projeto 1
+nome = input ("Qual o seu nome:")
+idade = input ("Qual a sua idade:")
+print ("Olá", nome,"Sua idade é:", idade) 
