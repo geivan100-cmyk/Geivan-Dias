@@ -13,4 +13,6 @@
 Machine Learning + Projetos práticos para portfólio
 
 ## 📬 Contato
-[LinkedIn] | [GitHub]
+[LinkedIn] | [GitHub]          
+LinkedIn: https://www.linkedin.com/in/geivan-jorge-7150bb199/     
+E-mail: geivan100@gmail.com
