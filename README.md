@@ -12,7 +12,6 @@
 ## 🎯 Foco Atual
 Machine Learning + Projetos práticos para portfólio
 
-## 📬 Contato
-[LinkedIn] | [GitHub]          
+## 📬 Contato          
 LinkedIn: https://www.linkedin.com/in/geivan-jorge-7150bb199/     
 E-mail: geivan100@gmail.com
